@@ -2,8 +2,7 @@ import numpy as np
 import soundfile as sf
 from matplotlib import pyplot as plt
 import sounddevice as sd
-
-
+#this program slows down speach
 
 #%% Functions 
 
